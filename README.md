@@ -5,6 +5,7 @@
 ## 자격요건
 - 웹애플리케이션 개발 경험자
 - React 혹은 Vue 사용 경험자
+- Video and Audio API 사용 경험자
 
 ## 담당업무
 - 오디오와 자막으로 부터 기계학습에 필요한 데이터셋을 추출하는 웹애플리케이션 개발 (https://github.com/leutemedia/AI-Lab#%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B-%EC%83%9D%EC%84%B1-%ED%88%B4)
